@@ -1,4 +1,4 @@
-# mocopi-slimevr-nrf52840-firmware
+# mocopi-slimevr-hid-receiver
 
 mocopiセンサーをSlimeVR Server上のDIYトラッカーとして扱うための、非公式自作データレシーバーファームウェアです。
 
