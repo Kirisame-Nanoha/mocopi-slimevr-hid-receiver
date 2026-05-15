@@ -43,7 +43,7 @@ XIAO nRF52840をPCに接続し、mocopiセンサーのデータをBluetooth Low 
 - 通信用USB Type-Cケーブル
 - mocopiセンサー 6個
 - SlimeVR Serverが動作するPC
-- `firmware.uf2`
+- `firmware_061.uf2もしくはfirmware_062.uf2`
 
 任意で、XIAO nRF52840用のケースを使用してください。
 
@@ -51,7 +51,7 @@ XIAO nRF52840をPCに接続し、mocopiセンサーのデータをBluetooth Low 
 
 1. XIAO nRF52840をPCにUSB接続する
 2. UF2ブートローダーのストレージを表示する
-3. `Firmware.uf2` をUF2ストレージへドラッグ＆ドロップする
+3. `firmware_061.uf2もしくはfirmware_062.uf2` をUF2ストレージへドラッグ＆ドロップする
 4. 自動的に再起動したら完了
 
 UF2ストレージが表示されない場合は、PCにUSB接続した状態でリセットボタンを素早く2回押してください。
